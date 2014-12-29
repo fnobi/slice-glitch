@@ -1,0 +1,9 @@
+{
+  "name": "slice-glitch",
+  "description": "glitch effect for DOM.",
+  "version": "0.1.0",
+  "main": "src/js/sliceGlitch.js",
+  "dependencies": {
+    "jquery": "~1.10.*"
+  }
+}
